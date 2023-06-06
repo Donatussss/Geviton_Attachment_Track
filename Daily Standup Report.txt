@@ -1,0 +1,24 @@
+Week - 05/06 : 09/06 2023
+
+Task: Using sensors and equipment provided, implement an esp32 project that involves 
+communication with thingspeak and use thresholds to actuate some action. Use vscode editor.
+Document days' actions.
+
+Date - 05/06/2023
+Completed
+1. Introduction to esp32
+- Setting up arduino ide for esp32
+- Running a number of example programs
+
+In progress
+1. Introduction to esp32
+- Setting up arduino ide for esp32-cam
+- Running a number of example programs
+- Setting up vscode ide for esp32 and esp32-cam
+- Interfacing provided sensors
+
+Roadblocks
+- None so far
+
+Questions
+- How can I fix the esp32 with the flash issue?
