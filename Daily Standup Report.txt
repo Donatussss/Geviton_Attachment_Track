@@ -22,3 +22,25 @@ Roadblocks
 
 Questions
 - How can I fix the esp32 with the flash issue?
+
+
+Date - 06/06/2023
+Completed
+1. Introduction to esp32
+- Setting up arduino ide for esp32-cam
+- Running a number of example programs
+- Setting up vscode ide for esp32 and esp32-cam
+2. ENZI
+- Cross-checking pcbs & components for power backup and mpm
+
+In progress
+1. Introduction to esp32
+- Interfacing provided sensors
+2. ENZI
+- Cross-checking pcbs & components for bms
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
