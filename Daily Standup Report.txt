@@ -44,3 +44,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 07/06/2023
+Completed
+1. Introduction to esp32
+- Interfacing PIR sensor & RGB Led
+
+In progress
+1. Introduction to esp32
+- Interfacing provided sensors
+2. ENZI
+- Cross-checking pcbs & components for bms
+
+Roadblocks
+- Power issue at Gearbox
+
+Questions
+- None so far
