@@ -1,0 +1,1 @@
+arduino-esp32 libraries: https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/libraries.html
