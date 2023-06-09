@@ -81,3 +81,22 @@ Roadblocks
 
 Questions
 - Why is it not possible to access the OLED display in a function attached to an interrupt?
+
+
+Date - 09/06/2023
+Completed
+1. Introduction to esp32
+- Interfacing LCD to build bluetooth chat log
+
+In progress
+1. Introduction to esp32
+- Interfacing provided sensors
+2. ENZI
+- Cross-checking pcbs & components for bms
+- Assembly of ENZI pcbs
+
+Roadblocks
+- Assembly queue at Gearbox
+
+Questions
+- How do I send a string line by line on vscode serial monitor?
