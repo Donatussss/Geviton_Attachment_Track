@@ -62,3 +62,22 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 08/06/2023
+Completed
+1. Introduction to esp32
+- Interfacing OLED, PIR sensor & RGB Led to build room security radar
+
+In progress
+1. Introduction to esp32
+- Interfacing provided sensors
+2. ENZI
+- Cross-checking pcbs & components for bms
+- Assembly of ENZI pcbs
+
+Roadblocks
+- Assembly queue at Gearbox
+
+Questions
+- Why is it not possible to access the OLED display in a function attached to an interrupt?
