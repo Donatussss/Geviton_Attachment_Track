@@ -100,3 +100,23 @@ Roadblocks
 
 Questions
 - How do I send a string line by line on vscode serial monitor?
+
+
+Date - 12/06/2023
+Completed
+1. Introduction to esp32
+- Interfacing keypad to build bluetooth chat input
+- Interfacing touch sensor to turn on/off LED
+
+In progress
+1. Introduction to esp32
+- Interfacing provided sensors
+2. ENZI
+- Cross-checking pcbs & components for bms
+- Assembly of ENZI pcbs
+
+Roadblocks
+- Sorting of components
+
+Questions
+- Why does the esp32s fail to download programs when PIO0 is defined as input?
