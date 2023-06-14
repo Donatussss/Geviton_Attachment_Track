@@ -139,3 +139,24 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Date - 14/06/2023
+Completed
+1. Introduction to esp32
+- Interfacing sph0645 microphone
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+2. ENZI
+- Cross-checking pcbs & components for bms
+- Assembly of ENZI pcbs
+
+Roadblocks
+- Testing connection to specific port on the esp32 ip address
+- Sorting of components
+
+Questions
+- How do I test a connection to a UDP port on the esp32 ip address?
