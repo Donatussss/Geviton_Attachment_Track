@@ -187,3 +187,29 @@ Key items learnt
 - Printing of pcbs
 - Importance of clearance made in pcb design for assembly by the smt line
 - General flow of smt line from printing to placing to oven placement
+
+
+
+Date - 16/06/2023
+Completed
+2. ENZI
+- PCB Assembly of top side of 2 units of bms board
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+1. ENZI
+- Updating inventory for bms board components
+- Assembly of ENZI pcbs
+
+Roadblocks
+- Testing connection to specific port on the esp32 ip address
+- Missing components for the bms board
+
+Questions
+- How can kitting and dekitting be automated?
+
+Key items learnt
+- Dekitting of pcb components on the elements of the feeder/cart of the placer
+- Kapton tape withstands temperature of over 200 degrees celcius and used to hold components that are likely to fall off while in the oven
+- Importance of good inventory record keeping to ensure fast production
