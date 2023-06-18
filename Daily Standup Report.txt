@@ -160,3 +160,30 @@ Roadblocks
 
 Questions
 - How do I test a connection to a UDP port on the esp32 ip address?
+
+
+
+Date - 15/06/2023
+Completed
+2. ENZI
+- PCB Assembly of top side of 5 units of bms board
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+2. ENZI
+- Cross-checking pcbs & components for top side of bms board
+- Assembly of ENZI pcbs
+
+Roadblocks
+- Testing connection to specific port on the esp32 ip address
+- Sorting of components
+
+Questions
+- None so far
+
+Key items learnt
+- Kitting of pcb components on the elements of the feeder/cart of the placer
+- Printing of pcbs
+- Importance of clearance made in pcb design for assembly by the smt line
+- General flow of smt line from printing to placing to oven placement
