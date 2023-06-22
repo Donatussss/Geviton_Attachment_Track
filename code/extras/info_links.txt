@@ -1,1 +1,2 @@
 arduino-esp32 libraries: https://espressif-docs.readthedocs-hosted.com/projects/arduino-esp32/en/latest/libraries.html
+esp32_library_json: https://dl.espressif.com/dl/package_esp32_index.json
