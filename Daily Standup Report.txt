@@ -102,6 +102,7 @@ Questions
 - How do I send a string line by line on vscode serial monitor?
 
 
+
 Date - 12/06/2023
 Completed
 1. Introduction to esp32
@@ -141,7 +142,6 @@ Questions
 - None so far
 
 
-
 Date - 14/06/2023
 Completed
 1. Introduction to esp32
@@ -160,7 +160,6 @@ Roadblocks
 
 Questions
 - How do I test a connection to a UDP port on the esp32 ip address?
-
 
 
 Date - 15/06/2023
@@ -187,7 +186,6 @@ Key items learnt
 - Printing of pcbs
 - Importance of clearance made in pcb design for assembly by the smt line
 - General flow of smt line from printing to placing to oven placement
-
 
 
 Date - 16/06/2023
@@ -229,3 +227,24 @@ In progress
 Roadblocks
 - Figuring out cause of distortion of audio received
 
+Questions
+- None so far
+
+
+Date - 20/06/2023
+Completed
+1. ENZI
+- Sorting power backup pcb components
+- Kitting power backup pcb components on the cart
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+2. ENZI
+- Sorting mpm pcb components
+
+Roadblocks
+- Missing component for power backup pcb
+
+Questions
+- None so far
