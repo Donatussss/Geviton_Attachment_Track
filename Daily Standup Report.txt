@@ -165,7 +165,7 @@ Questions
 
 Date - 15/06/2023
 Completed
-2. ENZI
+1. ENZI
 - PCB Assembly of top side of 5 units of bms board
 
 In progress
@@ -192,13 +192,13 @@ Key items learnt
 
 Date - 16/06/2023
 Completed
-2. ENZI
+1. ENZI
 - PCB Assembly of top side of 2 units of bms board
 
 In progress
 1. Introduction to esp32
 -  Streaming audio from sph0645 over UDP
-1. ENZI
+2. ENZI
 - Updating inventory for bms board components
 - Assembly of ENZI pcbs
 
@@ -213,3 +213,19 @@ Key items learnt
 - Dekitting of pcb components on the elements of the feeder/cart of the placer
 - Kapton tape withstands temperature of over 200 degrees celcius and used to hold components that are likely to fall off while in the oven
 - Importance of good inventory record keeping to ensure fast production
+
+
+
+Date - 19/06/2023
+Completed
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+	- Sending data from esp32 to laptop over udp
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP	
+
+Roadblocks
+- Figuring out cause of distortion of audio received
+
