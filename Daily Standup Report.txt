@@ -248,3 +248,22 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 21/06/2023
+Completed
+1. ENZI
+- Sorting mpm pcb components
+- Kitting mpm pcb components on the cart
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+2. ENZI
+- Sorting mpm pcb components
+
+Roadblocks
+- Component labelling issue for mpm pcb
+
+Questions
+- None so far
