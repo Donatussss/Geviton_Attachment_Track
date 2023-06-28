@@ -272,6 +272,7 @@ In progress
 
 Roadblocks
 - Component labelling issue for mpm pcb
+- Missing component for power backup pcb
 
 Questions
 - None so far
@@ -280,7 +281,25 @@ Questions
 Date - 22/06/2023
 Completed
 1. ENZI
+- Assembly of power backup pcbs
 - Soldering through hole components for power backup pcbs
+
+In progress
+1. ENZI
+- Sorting mpm pcb components
+
+Roadblocks
+- Component labelling issue for mpm pcb
+- Missing component for power backup pcb
+
+Questions
+
+
+Date - 23/06/2023
+Completed
+1. ENZI
+- Rework of power backup pcbs
+- Labelling, panel breaking and packaging of power backup pcbs
 
 In progress
 1. ENZI
