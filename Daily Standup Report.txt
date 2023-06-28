@@ -310,3 +310,27 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Week - 26/06 : 30/06 2023
+
+Task: Help out in pcb assembly and production process of enzi mpm and swift power pcbs.
+
+Date - 26/06/2023
+Completed
+1. ENZI
+- Soldering through hole components for mpm pcbs
+- Labelling, panel breaking and packaging of mpm pcbs
+2. SWIFT
+- Assembly of 2 pcb boards for development
+
+In progress
+1. SWIFT
+-  Sorting swift power pcb components
+
+Roadblocks
+- Component labelling issue for swift power pcb
+
+Questions
+- None so far
