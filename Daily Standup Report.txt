@@ -334,3 +334,23 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 27/06/2023
+Completed
+1. SWIFT
+- Testing of 1st and 2nd assembled pcbs
+- Assembly of 3rd pcb board for development
+- Testing of 3rd pcb board
+
+In progress
+1. SWIFT
+- Sorting swift power pcb components
+- Rework of 1st and 2nd assembled pcbs
+
+Roadblocks
+- Component labelling issue for swift power pcb
+- Wrong component placement orientation issue for swift power pcb 
+
+Questions
+- None so far
