@@ -315,7 +315,7 @@ Questions
 
 Week - 26/06 : 30/06 2023
 
-Task: Help out in pcb assembly and production process of enzi mpm and swift power pcbs.
+Task: Help out in pcb assembly and production process of enzi mpm and swift power router pcbs.
 
 Date - 26/06/2023
 Completed
@@ -356,7 +356,21 @@ Questions
 - None so far
 
 
-
 Date - 28/06/2023
 Eid al-Adha Holiday
+
+
+Date = 29/06/2023
+Completed
+1. ENZI
+- Updating ENZI mpm & bms components inventory
+
+In progress
+1. ENZI
+- Assembly of ENZI bms and mpm pcbs
+
+Roadblocks
+- Maintenance of smt line
+
+Questions
 - None so far
