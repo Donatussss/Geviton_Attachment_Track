@@ -374,3 +374,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date = 30/06/2023
+Completed
+1. Aga khan
+- Site visit
+2. UN
+- Picking community air quality monitors
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+
+Roadblocks
+- Troubleshooting noise received from sph0645 mic
+
+Questions
+- None so far
