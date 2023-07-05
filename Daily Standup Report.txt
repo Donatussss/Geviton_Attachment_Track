@@ -360,7 +360,7 @@ Date - 28/06/2023
 Eid al-Adha Holiday
 
 
-Date = 29/06/2023
+Date - 29/06/2023
 Completed
 1. ENZI
 - Updating ENZI mpm & bms components inventory
@@ -376,12 +376,33 @@ Questions
 - None so far
 
 
-Date = 30/06/2023
+Date - 30/06/2023
 Completed
 1. Aga khan
 - Site visit
 2. UN
 - Picking community air quality monitors
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+
+Roadblocks
+- Troubleshooting noise received from sph0645 mic
+
+Questions
+- None so far
+
+
+
+Week - 03/07 : 08/07 2023
+
+Task: Familiarize with STM32 firmware development and help out @KabiWaweru in firmware development tasks provided
+
+Date - 03/07/2023
+Completed
+1. Introduction to esp32
+- Month review of esp32 tasks with @KabiWaweru
 
 In progress
 1. Introduction to esp32
