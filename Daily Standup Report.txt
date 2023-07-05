@@ -413,3 +413,26 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 04/07/2023
+Completed
+1. Introduction to esp32
+- Interfacing servo motors to operate them over potentiometers and over wifi
+
+2. Introduction to stm32
+- Setting up stm32 STM32CubeIDE
+- Familiarizing with STM32CubeIDE
+
+In progress
+1. Introduction to esp32
+-  Streaming audio from sph0645 over UDP
+
+2. Introduction to stm32
+- Loading first program to stm32 bluepill module
+
+Roadblocks
+- None so far
+
+Questions
+- How do I produce a .bin compilation using the STM32CubeIDE?
