@@ -436,3 +436,24 @@ Roadblocks
 
 Questions
 - How do I produce a .bin compilation using the STM32CubeIDE?
+
+
+Date - 05/07/23
+Completed
+1. Introduction to stm32
+- Loading first program to stm32 bluepill module
+
+In progress
+1. Introduction to stm32
+- Familiarizing with STM32CubeIDE
+- Testing UART communication on the stm32
+- Learning the HAL library
+
+2. ENZI
+- Soldering the PKCELL LP503562 3.7V 1200mAh batteries to the power backup pcbs
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
