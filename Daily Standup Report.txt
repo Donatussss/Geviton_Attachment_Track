@@ -475,3 +475,7 @@ Roadblocks
 
 Questions
 - How do I enable code completion on the STM32CubeIDE?
+
+
+Date - 07/07/2023
+Sabasaba day demonstrations
