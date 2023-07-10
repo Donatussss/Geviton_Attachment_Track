@@ -457,3 +457,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 06/07/23
+Completed
+1. Enzi
+- Soldering the PKCELL LP503562 3.7V 1200mAh batteries to the power backup pcbs
+
+In progress
+1. Introduction to stm32
+- Familiarizing with STM32CubeIDE
+- Testing UART communication on the stm32
+- Learning the HAL library
+
+Roadblocks
+- None so far
+
+Questions
+- How do I enable code completion on the STM32CubeIDE?
