@@ -510,3 +510,23 @@ Questions
 
 Key items learnt
 - Source and sink current specifications for digital ports
+
+
+Date - 11/07/23
+Completed
+1. Enzi
+- Crimping 195/450 wires to make 13/30 15pin connectors for the battery cells
+
+In progress
+1. Enzi
+- Crimping 450 wires to make 30 15pin connectors for the battery cells
+2. Introduction to stm32
+- Familiarizing with STM32CubeIDE
+- Testing UART communication on the stm32
+- Learning the HAL library
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
