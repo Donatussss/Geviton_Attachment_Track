@@ -479,3 +479,34 @@ Questions
 
 Date - 07/07/2023
 Sabasaba day demonstrations
+
+
+
+Week - 10/07 : 14/07 2023
+
+Task: Familiarize with STM32 firmware development and help out @KabiWaweru in firmware development tasks provided
+	: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 10/07/23
+Completed
+1. Enzi
+- Crimping 60/450 wires to make 4/30 15pin connectors for the battery cells
+2. Introduction to stm32
+- Debugging through live expressions
+
+In progress
+1. Enzi
+- Crimping 450 wires to make 30 15pin connectors for the battery cells
+2. Introduction to stm32
+- Familiarizing with STM32CubeIDE
+- Testing UART communication on the stm32
+- Learning the HAL library
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+Key items learnt
+- Source and sink current specifications for digital ports
