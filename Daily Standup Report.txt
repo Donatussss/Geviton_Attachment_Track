@@ -604,3 +604,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 18/07/23
+Completed
+1. Enzi
+- Serializing and soldering connectors for 12/30 batteries
+- Crimping 360/450 wires to make 24/30 15pin connectors for the battery cells
+
+In progress
+1. Enzi
+- Serializing and soldering connectors for 30 batteries
+- Crimping 450 wires to make 30 15pin connectors for the battery cells
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
