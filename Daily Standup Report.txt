@@ -626,3 +626,20 @@ Questions
 
 Date - 19/07/23
 - Demonstrations
+
+
+Date - 20/07/23
+Completed
+1. Enzi
+- Serializing and soldering connectors for 15/30 batteries
+- Crimping 450/450 wires to make 30/30 15pin connectors for the battery cells
+
+In progress
+1. Enzi
+- Serializing and soldering connectors for 30 batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
