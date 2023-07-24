@@ -643,3 +643,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 21/07/23
+Completed
+1. Enzi
+- Serializing and soldering connectors for 16/30 batteries
+- Crimping 66/330 wires to make 6/30 11pin connectors for the temperature sensors
+
+In progress
+1. Enzi
+- Serializing and soldering connectors for 30 batteries
+- Crimping 330 wires to make 30 11pin connectors for the temperature sensors
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
