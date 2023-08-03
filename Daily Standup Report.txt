@@ -774,3 +774,20 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 01/08/23
+Completed
+1. Enzi
+- Soldering 65/132 2-terminal temperature sensors to the 30 11pin connectors and adding heat shrink tubing insulation
+
+In progress
+1. Enzi
+- Serializing and soldering connectors for 30 batteries
+- Soldering 132 2-terminal temperature sensors to the 30 11pin connectors and adding heat shrink tubing insulation
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
