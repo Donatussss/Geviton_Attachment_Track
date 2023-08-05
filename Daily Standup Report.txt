@@ -1,4 +1,4 @@
-Week - 05/06 : 09/06 2023
+Week 1 - 05/06 : 09/06 2023
 
 Task: Using sensors and equipment provided, implement an esp32 project that involves 
 communication with thingspeak and use thresholds to actuate some action. Use vscode editor.
@@ -103,7 +103,7 @@ Questions
 
 
 
-Week - 12/06 : 16/06 2023
+Week 2 - 12/06 : 16/06 2023
 
 Task: Help out in pcb assembly process of bms, power backup and mpm pcbs.
 
@@ -218,7 +218,7 @@ Key items learnt
 
 
 
-Week - 19/06 : 23/06 2023
+Week 3 - 19/06 : 23/06 2023
 
 Task: Help out in pcb assembly process of power backup and mpm pcbs.
 
@@ -313,7 +313,7 @@ Questions
 
 
 
-Week - 26/06 : 30/06 2023
+Week 4 - 26/06 : 30/06 2023
 
 Task: Help out in pcb assembly and production process of enzi mpm and swift power router pcbs.
 
@@ -395,7 +395,7 @@ Questions
 
 
 
-Week - 03/07 : 08/07 2023
+Week 5 - 03/07 : 08/07 2023
 
 Task: Familiarize with STM32 firmware development and help out @KabiWaweru in firmware development tasks provided
 
@@ -482,7 +482,7 @@ Sabasaba day demonstrations
 
 
 
-Week - 10/07 : 14/07 2023
+Week 6 - 10/07 : 14/07 2023
 
 Task: Familiarize with STM32 firmware development and help out @KabiWaweru in firmware development tasks provided
 	: Help out in assembly of enzi products on ebikes and etuktuks.
@@ -584,7 +584,7 @@ Questions
 
 
 
-Week - 17/07 : 21/07 2023
+Week 7 - 17/07 : 21/07 2023
 
 Task: Help out in assembly of enzi products on ebikes and etuktuks.
 
@@ -664,7 +664,7 @@ Questions
 
 
 
-Week - 24/07 : 28/07 2023
+Week 8 - 24/07 : 28/07 2023
 
 Task: Help out in assembly of enzi products on ebikes and etuktuks.
 
@@ -755,7 +755,7 @@ Questions
 
 
 
-Week - 31/07 : 04/08 2023
+Week 9 - 31/07 : 04/08 2023
 
 Task: Help out in assembly of enzi products on ebikes and etuktuks.
 
@@ -797,6 +797,23 @@ Date - 02/08/23
 Completed
 1. Enzi
 - Soldering 132/132 2-terminal temperature sensors to the 30 11pin connectors and adding heat shrink tubing insulation
+
+In progress
+1. Enzi
+- Serializing and soldering connectors for 30 batteries
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+
+Date - 03/08/23
+Completed
+1. Enzi
+- Short circuit testing and installation of heatsink enclosures on 4 bms boards
 
 In progress
 1. Enzi
