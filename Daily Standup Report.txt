@@ -914,3 +914,20 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 11/08/23
+Completed
+1. Enzi
+- Installation of 6 lq bms boards on batteries
+- Debugging, flashing and updating firmware of 3 Enzi bms boards installed on batteries
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- Failing to debug some bms boards
+
+Questions
+- None so far
