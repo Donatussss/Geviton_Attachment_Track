@@ -864,3 +864,20 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 08/08/23
+Completed
+1. Enzi
+- Adding extra layer of thermal pads on bms boards that had no contact with the heatsink enclosure
+- Activating sim cards to be used on the bms boards on the iotsimmanagement portal of safaricom
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- One line failing to activate on the iotsimmanagement portal
+
+Questions
+- None so far
