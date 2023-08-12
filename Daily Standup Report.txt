@@ -881,3 +881,19 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 09/08/23
+Completed
+1. Enzi
+- Assisting in debugging of bms boards
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
