@@ -842,3 +842,25 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Week 10 - 07/08 : 11/08 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 07/08/23
+Completed
+1. Enzi
+- Installation of thermal pads and heatsink enclosure on 9 bms boards
+- Reviewing challenges and improvements needed on ebikes with engineering team from China
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- Heatsink enclosure standoffs too long for thermal pads to establish contact between them and the mosfet chips
+
+Questions
+- None so far
