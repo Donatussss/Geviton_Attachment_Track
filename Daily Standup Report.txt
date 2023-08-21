@@ -955,3 +955,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 15/08/23
+Completed
+1. Enzi
+- Debugging, flashing and updating firmware of 2 Enzi bms boards
+- Monitoring bms telemetry on dedicated platform
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
