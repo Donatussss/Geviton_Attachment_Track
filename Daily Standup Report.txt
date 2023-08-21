@@ -1015,7 +1015,31 @@ Completed
 - Monitoring bms telemetry on dedicated platform
 
 2. SWIFT
-- Crimping 44/60 wires to make 5/6 6pin connectors(double-ended) and 4pin connectors for power board connections
+- Crimping 44/60 wires to make 5/6 6pin connectors(double-ended) and 4/6 4pin connectors for power board connections
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+
+
+Week 12 - 21/08 : 25/08 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 21/08/23
+Completed
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+
+2. SWIFT
+- Crimping 60/60 wires to make 6/6 6pin connectors(double-ended) and 6/6 4pin connectors for power board connections
 
 In progress
 1. Enzi
