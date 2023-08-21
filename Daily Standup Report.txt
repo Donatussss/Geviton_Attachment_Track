@@ -931,3 +931,27 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Week 11 - 14/08 : 19/08 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 14/08/23
+Completed
+1. Enzi
+- Debugging, flashing and updating firmware of 2 Enzi bms boards
+
+2. SWIFT
+- Continuity testing of 2 6pin and 2 4pin connectors for power board to router and plc connection
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- Difficulty in removing connectors from swift boards
+
+Questions
+- None so far
