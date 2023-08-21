@@ -934,7 +934,7 @@ Questions
 
 
 
-Week 11 - 14/08 : 19/08 2023
+Week 11 - 14/08 : 18/08 2023
 
 Task: Help out in assembly of enzi products on ebikes and etuktuks.
 
@@ -990,3 +990,20 @@ Roadblocks
 Questions
 - None so far
 
+
+Date - 17/08/23
+Completed
+1. Enzi
+- Training of bodaboda chairmen on rider safety and riding electric bikes
+- Monitoring bms telemetry on dedicated platform
+- Soldering extra wire length on 10/10 6pin communication cables
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
