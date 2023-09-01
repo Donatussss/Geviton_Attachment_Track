@@ -1100,3 +1100,23 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 25/08/23
+Completed
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+- Installation of 6 bms boards on batteries, debugging and programming
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+Issues
+- BMS boards smoking when 11pin power cable is connected to the board
