@@ -1132,6 +1132,25 @@ Completed
 1. Enzi
 - Wrote python program to activate monitoring of bms boards added on platform
 - Searched for 6pin connectors in Sagana & Masimo
+- Picked GSM antennas for batteries from westlands
+- Monitoring bms telemetry on dedicated platform
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+
+Date - 29/08/23
+Completed
+1. Enzi
+- Installed GSM antennas onto 5 bms boards
+- Programmed bms boards not sending data a second time
 - Monitoring bms telemetry on dedicated platform
 
 In progress
