@@ -1179,3 +1179,20 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 31/08/23
+Completed
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+- Training of bodaboda chairmen on public address and reviewing of all training sessions thus far
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
