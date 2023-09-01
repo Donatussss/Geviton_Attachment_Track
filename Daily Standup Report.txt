@@ -1050,3 +1050,19 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 22/08/23
+Completed
+1. ALERT RIDER
+- Communication range test for finished devices
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
