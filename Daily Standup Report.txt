@@ -1066,3 +1066,20 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 23/08/23
+Completed
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+- Helped out in replacement of motor & gearbox for KM*F 307C bike
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
