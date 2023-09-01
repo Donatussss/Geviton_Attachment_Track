@@ -1120,3 +1120,26 @@ Questions
 
 Issues
 - BMS boards smoking when 11pin power cable is connected to the board
+
+
+
+Week 13 - 28/08 : 01/09 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 28/08/23
+Completed
+1. Enzi
+- Wrote python program to activate monitoring of bms boards added on platform
+- Searched for 6pin connectors in Sagana & Masimo
+- Monitoring bms telemetry on dedicated platform
+
+In progress
+1. Enzi
+- Assisting in finalizing on the bms boards for installation on the batteries
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
