@@ -1354,3 +1354,28 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 14/09/23
+Completed
+1. Enzi
+- Debugging, flashing and updating firmware of 6/12 ENZI ECI boards
+- Updating firmware of 12/12 ENZI Display boards
+- Activating 6/12 sim cards to be used on the ECI boards on the iotsimmanagement portal of safaricom
+- Adding 6/12 ENZI ECI boards on dedicated platform
+- Activating 6/12 ENZI ECI boards on dedicated platform using python script
+- Installation of 5/13 ECI boards, Display boards and batteries on bikes
+
+In progress
+1. Enzi
+- Debugging, flashing and updating firmware of 12/12 ENZI ECI boards
+- Activating 12/12 sim cards to be used on the ECI boards on the iotsimmanagement portal of safaricom
+- Adding 12/12 ENZI ECI boards on dedicated platform
+- Activating 12/12 ENZI ECI boards on dedicated platform using python script
+- Monitoring eci and bms telemetry on dedicated platform
+
+Roadblocks
+- Some BMS boards not comunicating with ECI boards on the bikes
+
+Questions
+- None so far
