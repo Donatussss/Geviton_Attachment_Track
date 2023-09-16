@@ -1379,3 +1379,24 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 15/09/23
+Completed
+1. Enzi
+- Debugging, flashing and updating firmware of 12/12 ENZI ECI boards
+- Adding 12/12 ENZI ECI boards on dedicated platform
+- Resolving BMS to ECI communication on 1/5 batteries
+
+In progress
+1. Enzi
+- Activating 12/12 sim cards to be used on the ECI boards on the iotsimmanagement portal of safaricom
+- Activating 12/12 ENZI ECI boards on dedicated platform using python script
+- Resolving BMS to ECI communication on 5/5 batteries
+- Monitoring eci and bms telemetry on dedicated platform
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
