@@ -1279,6 +1279,26 @@ Date - 07/09/23
 Completed
 1. Enzi
 - Monitoring bms telemetry on dedicated platform
+- Updating bms inventory location
+
+In progress
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+
+Date - 08/09/23
+Completed
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+
+2. Introduction to stm32
+- Testing PWM using the stm32 on motors and LEDs
 
 In progress
 1. Enzi
