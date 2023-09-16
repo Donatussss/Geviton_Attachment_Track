@@ -1273,3 +1273,19 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 07/09/23
+Completed
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+
+In progress
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
