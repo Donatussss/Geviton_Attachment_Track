@@ -1226,6 +1226,27 @@ Date - 04/09/23
 Completed
 1. Enzi
 - Did initial rework of 2/6 ENZI BMS boards 
+- Picked up ENZI BMS boards, with issues that were then reworked, from the office
+
+In progress
+1. Enzi
+- Initial rework of 6 ENZI BMS boards
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+Key items learnt
+- Using hot air gun on smd 0402 components
+
+
+Date - 05/09/23
+Completed
+1. Enzi
+- Installed reworked ENZI BMS boards on batteries
+- Monitoring bms telemetry on dedicated platform for reworked ENZI BMS boards
 
 In progress
 1. Enzi
