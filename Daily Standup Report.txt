@@ -1215,3 +1215,24 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Week 14 - 04/09 : 08/09 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 04/09/23
+Completed
+1. Enzi
+- Did initial rework of 2/6 ENZI BMS boards 
+
+In progress
+1. Enzi
+- Initial rework of 6 ENZI BMS boards
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
