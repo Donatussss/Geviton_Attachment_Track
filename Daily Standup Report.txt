@@ -1320,10 +1320,12 @@ Date - 11/09/23
 Completed
 1. Enzi
 - Debugging, flashing and updating firmware of 13/13 Enzi bms boards
+- Rework of communication cable soldering on battery case connector for 4/10 battery cases
 - Monitoring bms telemetry on dedicated platform
 
 In progress
 1. Enzi
+- Rework of communication cable soldering on battery case connector for 10/10 battery cases
 - Monitoring bms telemetry on dedicated platform
 
 Roadblocks
@@ -1335,3 +1337,20 @@ Questions
 
 Date - 12/09/23
 Requested off day
+
+
+Date - 13/09/23
+Completed
+1. Enzi
+- Assisted in assembly of 10/10 batteries to battery cases
+- Monitoring bms telemetry on dedicated platform
+
+In progress
+1. Enzi
+- Monitoring bms telemetry on dedicated platform
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
