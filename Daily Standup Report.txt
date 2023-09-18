@@ -1400,3 +1400,25 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Week 16 - 18/09 : 22/09 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 18/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- BMS board not communicating with ECI board
+- Display not responding as intended as from commands received from ECI board
+
+Questions
+- None so far
