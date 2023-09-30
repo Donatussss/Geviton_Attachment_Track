@@ -1539,3 +1539,20 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 27/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Discovered delay in updating bike location on front end when bike was ridden around
+- Bike speed recorded on the front end was not accurate
+
+Questions
+- None so far
