@@ -1443,3 +1443,21 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 18/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Monitored BMS telemetry on platform
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Discovered BMS telemetry not reaching the platform due to platform updates to require some flags data
+- Discovered ECI telemetry not reaching the platform
+
+Questions
+- None so far
