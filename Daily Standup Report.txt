@@ -1576,3 +1576,24 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 29/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Updated firmware on all display boards
+- Worked on tuk odometer reading to not reset
+- Tuk speedometer noticed to record speed when stationary. Found out was due to noise from the gps module and kalman filter was applied
+- Worked on sending time directly from the gps and providing time in the correct format to the platform
+- Reduced ECI sleep time to allow commuication whenever a battery is connected
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
