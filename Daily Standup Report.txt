@@ -1556,3 +1556,23 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 28/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Worked on inaccurate bike speed recording on the front end
+- Worked on Tuk ECI to measure speed and distance through the gps module
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Discovered that BMS and ECIs telemetry weren't reaching the platform due to a change in how the front end was storing time
+- Discovered communication between ECI and BMS not taking place after BMS is disconnected then reconnected after a while
+- Tuk odometer was resetting
+
+Questions
+- None so far
