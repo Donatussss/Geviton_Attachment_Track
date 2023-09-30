@@ -1422,3 +1422,24 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 19/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Confirmed cabling is correct in troubleshooting communication between BMS and ECI
+- Worked on enabling BMS reset by the ECI through commands from the display
+- Worked on fixing communication issue between the BMS and ECI
+- BMS boards not working were taken to be reworked
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Discovered BMS telemetry not reaching the platform
+- Some BMS boards noticed not to be working even after firmware updates
+
+Questions
+- None so far
