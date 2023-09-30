@@ -1522,3 +1522,20 @@ Roadblocks
 Questions
 - None so far
 
+
+Date - 26/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Worked on communication issue between BMS and ECI
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Loss of communication also found out to be due to the communication interrupt not being handled due to higher order interrupts taking place
+- Discovered BMS and ECI and telemetry not reaching the platform when the gps does not have a lock on location. Speculated to be related to wrong time information being sent to platform due to no gps lock on location
+
+Questions
+- None so far
