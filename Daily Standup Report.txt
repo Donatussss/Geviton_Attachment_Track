@@ -1445,7 +1445,7 @@ Questions
 - None so far
 
 
-Date - 18/09/23
+Date - 20/09/23
 Completed
 1. Enzi
 - Updating firmware and troubleshooting ECI & BMS boards
@@ -1458,6 +1458,23 @@ In progress
 Roadblocks
 - Discovered BMS telemetry not reaching the platform due to platform updates to require some flags data
 - Discovered ECI telemetry not reaching the platform
+
+Questions
+- None so far
+
+
+Date - 21/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Worked on cutting one of the data wires on the communication cable
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Loss of communication speculated to be due to splitting of the data wire on the communication into two and 	rejoining them causing noise
 
 Questions
 - None so far
