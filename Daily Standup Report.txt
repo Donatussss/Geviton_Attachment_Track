@@ -1478,3 +1478,22 @@ Roadblocks
 
 Questions
 - None so far
+
+
+Date - 22/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Tested out communication between ECI and BMS after fixing the communication cable
+- Worked on ECI to send data every minute as opposed to every 5 minutes
+- Monitored ECI telemetry
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- Discovered communication between ECI and BMS was being lost after some time. Speculated to be ECI not reading BMS data when in sleep mode
+
+Questions
+- None so far
