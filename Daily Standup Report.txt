@@ -1611,7 +1611,6 @@ Completed
 - Discovered multiple location data points being shown on the front end when the bike is stationary.
 - Worked on sending telemetry only when bike is moving so that only one location data point is seen
 when bike is stationary
-- Tested how fast ECI picks up battery info when battery is connected
 
 In progress
 1. Enzi
@@ -1623,12 +1622,30 @@ Roadblocks
 Questions
 - None so far
 
+
 Date - 03/09/23
 Completed
 1. Enzi
 - Updating firmware and troubleshooting ECI & BMS boards
-- Tested the bike when laid down to obtain thresholds of yaw pitch and roll as well as acceleration in
-all three axes
+- Tested how fast ECI picks up battery info when battery is connected
+- Assembled batteries onto cases to be done for riding tests
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
+
+
+Date - 04/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Tested the bike when laid down on left and right sides as well as at different positions to obtain thresholds of yaw pitch and roll as well as acceleration in all three axes
 - Discontinued feature of sending telemetry only when bike is moving
 
 In progress
