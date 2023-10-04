@@ -1597,3 +1597,28 @@ Roadblocks
 
 Questions
 - None so far
+
+
+
+Week 18 - 02/10 : 06/10 2023
+
+Task: Help out in assembly of enzi products on ebikes and etuktuks.
+
+Date - 02/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Discovered multiple location data points being shown on the front end when the bike is stationary.
+- Worked on sending telemetry only when bike is moving so that only one location data point is seen
+when bike is stationary
+- Tested how fast ECI picks up battery info when battery is connected
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
