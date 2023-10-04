@@ -1622,3 +1622,21 @@ Roadblocks
 
 Questions
 - None so far
+
+Date - 03/09/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Tested the bike when laid down to obtain thresholds of yaw pitch and roll as well as acceleration in
+all three axes
+- Discontinued feature of sending telemetry only when bike is moving
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
