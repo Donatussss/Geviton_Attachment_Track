@@ -1661,3 +1661,21 @@ Questions
 
 Date - 05/10/23
 Requested off day
+
+
+Date - 06/10/23
+Completed
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Farewell lunch with Tim, Bill, George, Steve, Musyoki, Peter
+
+In progress
+1. Enzi
+- Updating firmware and troubleshooting ECI & BMS boards
+- Assembling batteries in battery cases
+
+Roadblocks
+- None so far
+
+Questions
+- None so far
